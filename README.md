@@ -74,4 +74,4 @@ Details can be found at [data.json](https://github.com/MrZhuA00/build-picture-be
 
 > 偏好设置 -> 图像 ->  上传服务设定   上传服务选择 "PicGo(app)"，选择 PicGo 安装路径
 
-![image-20221207210636775](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/image-20221207210636775(2022-12-07-21-06-36).png)
+![typora_setting](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/typora_setting(2022-12-07-21-15-49).png)
