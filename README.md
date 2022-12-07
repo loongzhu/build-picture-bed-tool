@@ -60,11 +60,11 @@ PicGo git地址：[PicGo](https://github.com/Molunerfinn/PicGo)
 
 ![rename_plugin](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/rename_plugin(2022-12-07-20-52-35).png)
 
-我的插件重命名格式
+我的插件重命名格式配置：   {origin}({y}-{m}-{d}-{h}-{i}-{s})
 
 ![my_plugin_config](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/my_plugin_config(2022-12-07-20-53-25).png)
 
-具体设置课参考 [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file#readme)
+具体配置 可参考 [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file#readme)
 
 ## 3. My picgo settings
 
