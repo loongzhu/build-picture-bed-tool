@@ -1,0 +1,79 @@
+{
+  "PICGO_ENV": "GUI",
+  "debug": true,
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "快捷上传"
+      }
+    },
+    "privacyEnsure": true,
+    "showUpdateTip": true,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    }
+  },
+  "needReload": false,
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      }
+    ],
+    "github": {
+      "repo": "MrZhuA00/NotesImg",
+      "branch": "main",
+      "token": "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",
+      "path": "Images/",
+      "customUrl": ""
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-rename-file": true
+  },
+  "picgo-plugin-rename-file": {
+    "format": "{origin}({y}-{m}-{d}-{h}-{i}-{s})"
+  }
+}
