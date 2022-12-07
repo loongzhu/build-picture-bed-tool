@@ -4,7 +4,7 @@
 
 > 流程：新建 public 仓库 -> 创建 token -> 复制 token 备用
 
-#### 1.1 New repository
+### 1.1 New repository
 
 点击 git 主页右上角的 `+` 创建 `New repository`；
 
@@ -12,7 +12,7 @@
 
 ![Create_repository](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/Create_repository(2022-12-07-20-35-27).png)
 
-#### 1.2  Create token and copy and save
+### 1.2  Create token and copy and save
 
 此时仓库已经建立，点击右上角头像，然后进入设置；
 
@@ -56,7 +56,7 @@ PicGo git地址：[PicGo](https://github.com/Molunerfinn/PicGo)
 
 ![PicGo_hot_key](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/PicGo_hot_key(2022-12-07-20-49-26).png)
 
-#### 2.3 PicGo rename plugin
+### 2.3 PicGo rename plugin
 
 ![rename_plugin](https://raw.githubusercontent.com/MrZhuA00/NotesImg/main/Images/rename_plugin(2022-12-07-20-52-35).png)
 
