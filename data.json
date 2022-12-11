@@ -63,18 +63,16 @@
       }
     ],
     "github": {
-      "repo": "MrZhuA00/NotesImg", // 仓库地址
-      "branch": "main", // 分支
-      "token": "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", // Github token 有效token会被 Github 扫描后撤销
-      "path": "Images/", // 存储路径
-      "customUrl": "" // 自定义域名
+      "repo": "MrZhuA00/NotesImg",
+      "branch": "main",
+      "token": "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",
+      "path": "Images/",
+      "customUrl": ""
     }
   },
   "picgoPlugins": {
-    // 重命名插件 是否开启重命名插件
     "picgo-plugin-rename-file": true
   },
-  // 重命名插件配置
   "picgo-plugin-rename-file": {
     "format": "{origin}({y}-{m}-{d}-{h}-{i}-{s})"
   }
