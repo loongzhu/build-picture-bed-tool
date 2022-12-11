@@ -4,7 +4,7 @@
   "settings": {
     "shortKey": {
       "picgo:upload": {
-        "enable": true,
+        "enable": false,
         "key": "CommandOrControl+Shift+P",
         "name": "upload",
         "label": "快捷上传"
